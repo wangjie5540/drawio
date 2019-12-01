@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T16:00:31.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="yxqz-F_bL9kbdkYJ-Tqb" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-01T16:11:37.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="_g7stVY61HbkOhacqhni" version="12.3.3" type="github" pages="1">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="EplZmqz9-yX-gwSmQUmt-29" value="小爱开放平台" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="129.5" y="1110" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="7Dhoqbvo-McDRVBPA5o0-2" value="支付模块" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7Dhoqbvo-McDRVBPA5o0-2" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="266" y="820" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="7Dhoqbvo-McDRVBPA5o0-3" value="支付模块" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -77,7 +77,19 @@
           <mxGeometry x="129.5" y="610" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ovE0eIuX_nR3lsCL4_bD-2" value="电子围栏" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="266" y="610" width="120" height="40" as="geometry"/>
+          <mxGeometry x="260" y="610" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ovE0eIuX_nR3lsCL4_bD-3" value="智能导游" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ovE0eIuX_nR3lsCL4_bD-4" value="押金管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ovE0eIuX_nR3lsCL4_bD-5" value="用户投诉" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="610" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ovE0eIuX_nR3lsCL4_bD-6" value="地图监控" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="690" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
