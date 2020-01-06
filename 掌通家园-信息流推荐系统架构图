@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T07:49:08.200Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="2ZvCBpFU7IT7SGit4fSx" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T07:50:42.832Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="udZs5aby_JOXu318Q3JR" version="12.4.8" type="github">
   <diagram id="ISufraGIfwVKKLfiarv1" name="第 1 页">
     <mxGraphModel dx="1253" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,11 +163,14 @@
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-86" value="数据可视化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#343643;strokeColor=#b46504;arcSize=5;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="60" y="-82.5" width="170" height="72.5" as="geometry"/>
         </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-87" value="信息流推荐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#343643;strokeColor=#b46504;arcSize=5;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-87" value="信息流智能推荐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#343643;strokeColor=#b46504;arcSize=5;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="-82.5" width="170" height="72.5" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-88" value="AB测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#343643;strokeColor=#b46504;arcSize=5;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="-82.5" width="170" height="72.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-89" value="运营强制推荐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#343643;strokeColor=#b46504;arcSize=5;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-82.5" width="170" height="72.5" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
