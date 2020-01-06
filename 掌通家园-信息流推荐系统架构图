@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-06T06:44:59.425Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="M2yeaGq10yLKwILfBGM_" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T06:55:17.534Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="jqQd_qMUiWf-62w3zeRS" version="12.4.8" type="github">
   <diagram id="ISufraGIfwVKKLfiarv1" name="第 1 页">
-    <mxGraphModel dx="873" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -8,9 +8,9 @@
           <mxGeometry x="60" width="770" height="570" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-26" value="运营强制推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" width="90" height="420" as="geometry"/>
+          <mxGeometry x="710" y="20" width="90" height="390" as="geometry"/>
         </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-6" value="maxcompute(数据统计)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="620" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -38,7 +38,7 @@
           <mxGeometry x="80" y="490" width="620" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-5" value="机器学习pai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-10" y="360" width="110" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-7" value="数据挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="120" height="60" as="geometry"/>
@@ -65,13 +65,10 @@
           <mxGeometry x="90" y="355" width="110" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-23" value="内容爬虫系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="430" width="110" height="40" as="geometry"/>
+          <mxGeometry x="-30" y="312.5" width="110" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-24" value="标签系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="355" width="110" height="35" as="geometry"/>
-        </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-33" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="770" y="490" width="40" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" width="330" height="60" as="geometry"/>
@@ -91,8 +88,8 @@
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-40" value="推荐算法训练" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-41" value="nlp中文处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="70" height="20" as="geometry"/>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-41" value="nlp自然语言处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-42" value="embedding找回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="110" height="30" as="geometry"/>
@@ -107,13 +104,25 @@
           <mxGeometry x="390" y="500" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-50" value="业务数据库" style="shape=datastore;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="495" width="70" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-52" value="行为数据" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="700" y="500" width="60" height="40" as="geometry"/>
+          <mxGeometry x="575" y="495" width="70" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-54" value="数据仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=17;fontStyle=1;fontColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-55" value="用户行为收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="260" width="110" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-59" value="离线计算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-60" value="实时计算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-61" value="大数据&lt;br&gt;统计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=17;fontStyle=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-62" value="数据荟聚" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
