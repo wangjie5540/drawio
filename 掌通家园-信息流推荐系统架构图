@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T04:44:30.007Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Bq73qM3Q3NURvHXWroQ1" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T05:12:35.029Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Xhp-xT5zw3l_H2YPD7gw" version="12.4.8" type="github">
   <diagram id="ISufraGIfwVKKLfiarv1" name="第 1 页">
     <mxGraphModel dx="2115" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-20" value="分类模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="315" width="110" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-21" value="词嵌入模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-21" value="词向量模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="315" width="110" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-22" value="中文清洗与分词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
