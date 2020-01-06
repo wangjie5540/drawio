@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T04:40:47.871Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="qKMk5JLn6JEPAI_l0s3M" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T04:44:30.007Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Bq73qM3Q3NURvHXWroQ1" version="12.4.8" type="github">
   <diagram id="ISufraGIfwVKKLfiarv1" name="第 1 页">
     <mxGraphModel dx="2115" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="90" y="160" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="hAIpHG8WYeyf1yPp1wrD-5" value="热度召回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="230" width="120" height="60" as="geometry"/>
+          <mxGeometry x="90" y="230" width="110" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="420.5" y="-100" width="30" height="60" as="geometry"/>
@@ -52,9 +52,6 @@
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-16" value="定期报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="155" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="EO6aMj1TwU8D97ZrhSfj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="75" width="320" height="230" as="geometry"/>
-        </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="340" height="100" as="geometry"/>
         </mxCell>
@@ -72,6 +69,26 @@
         </mxCell>
         <mxCell id="EO6aMj1TwU8D97ZrhSfj-23" value="内容爬虫系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="110" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-24" value="标签系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="110" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-26" value="运营强制推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="797" y="420" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-30" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EO6aMj1TwU8D97ZrhSfj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="450" as="sourcePoint"/>
+            <mxPoint x="790" y="400" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EO6aMj1TwU8D97ZrhSfj-32" value="用户行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="EO6aMj1TwU8D97ZrhSfj-30">
+          <mxGeometry x="0.232" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
