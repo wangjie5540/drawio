@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-01-13T10:18:10.094Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="GkdAJcobJMP2MbpCAs0z" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T10:22:17.833Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="b9StkLX_5wsNSYoLeeUW" version="12.5.1" type="github">
   <diagram id="NLZLTCQ2kzsotbfR8RQm" name="第 1 页">
     <mxGraphModel dx="1824" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-69" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="150" width="210" height="110" as="geometry"/>
+        </mxCell>
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hb7Wb0ZfLb483x7BZa_l-1" target="Hb7Wb0ZfLb483x7BZa_l-15">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -84,7 +87,7 @@
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-28" value="pai(训练模型，离线预测)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-470" y="140" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-34" value="&lt;h1&gt;方案2&lt;/h1&gt;&lt;p&gt;1、不动go语言的rank服务，另起java服务进行rank&lt;/p&gt;&lt;p&gt;2、java服务方便使用jpmml模型，后续调研jpmml模型，使用gbdt模型&lt;/p&gt;&lt;p&gt;3、顺便做了去重策略&lt;/p&gt;&lt;p&gt;4、需要严格的压测&lt;/p&gt;&lt;p&gt;5、排序后缓存&lt;/p&gt;&lt;p&gt;评价：jpmml支持较好&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-34" value="&lt;h1&gt;方案建议&lt;/h1&gt;&lt;p&gt;1、不动go语言的rank服务，另起java服务进行rank&lt;/p&gt;&lt;p&gt;2、java服务方便使用jpmml模型，后续调研jpmml模型，使用gbdt模型&lt;/p&gt;&lt;p&gt;3、顺便做了去重策略&lt;/p&gt;&lt;p&gt;4、需要严格的压测&lt;/p&gt;&lt;p&gt;5、排序后缓存&lt;/p&gt;&lt;p&gt;评价：jpmml支持较好&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-139" width="410" height="209" as="geometry"/>
         </mxCell>
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-68" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -110,6 +113,12 @@
         </mxCell>
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-67" value="等等" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="Hb7Wb0ZfLb483x7BZa_l-68">
           <mxGeometry x="110" y="90" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-78" value="用户标签画像" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="160" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-79" value="内容标签画像" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="160" width="90" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
