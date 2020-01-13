@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T11:12:52.961Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="vTOzh8Xnu_hncDKziAT8" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T11:14:34.522Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="0JPgTl_y9jt1BKgUjcfo" version="12.5.1" type="github">
   <diagram id="NLZLTCQ2kzsotbfR8RQm" name="第 1 页">
     <mxGraphModel dx="1824" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-66" value="曝光去重队列" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="Hb7Wb0ZfLb483x7BZa_l-68">
           <mxGeometry x="10" y="90" width="90" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-67" value="等等" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="Hb7Wb0ZfLb483x7BZa_l-68">
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-67" value="画像" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="Hb7Wb0ZfLb483x7BZa_l-68">
           <mxGeometry x="110" y="90" width="90" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-78" value="用户标签画像" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
