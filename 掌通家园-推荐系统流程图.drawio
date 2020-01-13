@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T09:36:54.280Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="TYtGtiFto6-ULLqWdui7" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T09:38:32.894Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="MD3W-viSw6CTXmX2Ztwn" version="12.5.1" type="github">
   <diagram id="NLZLTCQ2kzsotbfR8RQm" name="第 1 页">
     <mxGraphModel dx="1424" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -50,8 +50,13 @@
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-14" value="redis召回队列" style="shape=image;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="329.5" width="52" height="61" as="geometry"/>
         </mxCell>
-        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hb7Wb0ZfLb483x7BZa_l-15" target="Hb7Wb0ZfLb483x7BZa_l-14">
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hb7Wb0ZfLb483x7BZa_l-15" target="Hb7Wb0ZfLb483x7BZa_l-14">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hb7Wb0ZfLb483x7BZa_l-27" value="召回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Hb7Wb0ZfLb483x7BZa_l-20">
+          <mxGeometry x="-0.4511" relative="1" as="geometry">
+            <mxPoint x="15" as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hb7Wb0ZfLb483x7BZa_l-15" value="" style="shape=collate;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-121" y="320" width="80" height="80" as="geometry"/>
