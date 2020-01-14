@@ -1,23 +1,9 @@
-<mxfile host="www.draw.io" modified="2020-01-14T04:41:52.442Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="r6fsZ24lERHBhg2SW-Xc" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T05:55:24.336Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="55tD5ZN_nBiXtW1JAUdz" version="12.5.1" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1024" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="YT002MPm4i4_1ASw3g45-93" value="排序服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="100" height="340" as="geometry"/>
-        </mxCell>
-        <mxCell id="YT002MPm4i4_1ASw3g45-112" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="YT002MPm4i4_1ASw3g45-93">
-          <mxGeometry x="45" y="140" width="10" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="YT002MPm4i4_1ASw3g45-96" value="信息流代理服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="100" height="300" as="geometry"/>
-        </mxCell>
-        <mxCell id="YT002MPm4i4_1ASw3g45-113" value="请求排序数据" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="YT002MPm4i4_1ASw3g45-112" parent="1" source="YT002MPm4i4_1ASw3g45-96">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="120" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
